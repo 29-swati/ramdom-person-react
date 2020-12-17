@@ -14,7 +14,7 @@ Variables
   --clr-primary-5: hsl(205, 78%, 60%);
   /* lighter shades of primary color */
   --clr-primary-6: hsl(205, 89%, 70%);
-  --clr-primary-7: hsl(210, 100%, 0%);
+  --clr-primary-7: hsl(205, 90%, 76%);
   --clr-primary-8: hsl(205, 86%, 81%);
   --clr-primary-9: hsl(205, 90%, 88%);
   --clr-primary-10: hsl(205, 100%, 96%);
@@ -159,6 +159,7 @@ p {
 /* container */
 .block {
   min-height: 50vh;
+  background-color: blue;
 }
 .bcg-black {
   background: #2c2e31;
